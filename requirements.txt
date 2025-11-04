@@ -1,0 +1,9 @@
+streamlit
+flwr[simulation]==1.9.0
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
